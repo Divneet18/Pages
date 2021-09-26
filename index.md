@@ -34,17 +34,17 @@ Find some of my pictures [here](index.md#Pictures)
 
 ## Pictures
 
-![picture 2]('IMG_2667 2.JPG')
+![picture 2](IMG_2667.JPG)
 
 ![picture 3](IMG_2668.JPG)
 
-![picture 4](IMG_2671 2.JPG)
+![picture 4](IMG_2671.JPG)
 
-![picture 5](IMG_2672 2.JPG)
+![picture 5](IMG_2672.JPG)
 
-![picture 6](IMG_2673 2.JPG)
+![picture 6](IMG_2673.JPG)
 
-![picture 6](IMG_2674 2.JPG)
+![picture 6](IMG_2674.JPG)
 
 
 
