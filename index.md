@@ -44,7 +44,8 @@ Find some of my pictures [here](index.md#Pictures)
 
 ![picture 6](IMG_2673.JPG)
 
-
+## Readme for link to the published site 
+Click [here](README.md)
 
 
 
