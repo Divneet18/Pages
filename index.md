@@ -34,7 +34,7 @@ Find some of my pictures [here](index.md#Pictures)
 
 ## Pictures
 
-![picture 2](IMG_2667 2.JPG)
+![picture 2]('IMG_2667 2.JPG')
 
 ![picture 3](IMG_2668.JPG)
 
