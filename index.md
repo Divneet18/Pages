@@ -33,6 +33,16 @@ Some things I want to learn are:
 Find some of my pictures [here](index.md#Pictures)
 
 ## Pictures
+![picture 1](/path/to/image.png)
+![picture 2](/Pages/IMG_2667 2.JPG)
+![picture 3](/Pages/IMG_2668.JPG)
+![picture 4](/Pages/IMG_2671 2.JPG)
+![picture 5](/Pages/IMG_2672 2.JPG)
+![picture 6](/Pages/IMG_2673 2.JPG)
+![picture 6](/Pages/IMG_2674 2.JPG)
+
+
+
 
 
 
