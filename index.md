@@ -44,7 +44,6 @@ Find some of my pictures [here](index.md#Pictures)
 
 ![picture 6](IMG_2673.JPG)
 
-![picture 6](IMG_2674.JPG)
 
 
 
